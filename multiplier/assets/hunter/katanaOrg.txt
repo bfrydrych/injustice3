@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "katana.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1612,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "1.jpg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 806,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 806,
+						"h": 1024
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 806,
+						"h": 1024
+					}
+				},
+				{
+					"filename": "2.jpg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 806,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 806,
+						"h": 1024
+					},
+					"frame": {
+						"x": 806,
+						"y": 0,
+						"w": 806,
+						"h": 1024
+					}
+				},
+				{
+					"filename": "3.jpg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 806,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 806,
+						"h": 1024
+					},
+					"frame": {
+						"x": 0,
+						"y": 1024,
+						"w": 806,
+						"h": 1024
+					}
+				},
+				{
+					"filename": "4.jpg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 806,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 806,
+						"h": 1024
+					},
+					"frame": {
+						"x": 806,
+						"y": 1024,
+						"w": 806,
+						"h": 1024
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:706f526313deb917aa9c8df3ff1bb391:4c21f19a06258dbe8cbdc8241bd45d02:22dbb48e0b99860d2d495834122b81fd$"
+	}
+}

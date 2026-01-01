@@ -1,0 +1,1111 @@
+{
+	"textures": [
+		{
+			"image": "fighter1",
+			"format": "RGBA8888",
+			"size": {
+				"w": 424,
+				"h": 1364
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/taking-punch/west/taking-punch_west_frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 22,
+						"w": 69,
+						"h": 117
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 117
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/walk/west/walk_east_frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 23,
+						"w": 68,
+						"h": 116
+					},
+					"frame": {
+						"x": 0,
+						"y": 117,
+						"w": 68,
+						"h": 116
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/walk/west/walk_east_frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 22,
+						"w": 31,
+						"h": 116
+					},
+					"frame": {
+						"x": 0,
+						"y": 233,
+						"w": 31,
+						"h": 116
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/walk/west/walk_east_frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 21,
+						"w": 70,
+						"h": 115
+					},
+					"frame": {
+						"x": 0,
+						"y": 349,
+						"w": 70,
+						"h": 115
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/taking-punch/east/taking-punch_east_frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 26,
+						"w": 66,
+						"h": 115
+					},
+					"frame": {
+						"x": 31,
+						"y": 233,
+						"w": 66,
+						"h": 115
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/walk/east/walk_east_frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 22,
+						"w": 29,
+						"h": 115
+					},
+					"frame": {
+						"x": 68,
+						"y": 117,
+						"w": 29,
+						"h": 115
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/walk/west/walk_east_frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 22,
+						"w": 27,
+						"h": 115
+					},
+					"frame": {
+						"x": 97,
+						"y": 117,
+						"w": 27,
+						"h": 115
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/taking-punch/west/taking-punch_west_frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 19,
+						"w": 70,
+						"h": 114
+					},
+					"frame": {
+						"x": 124,
+						"y": 117,
+						"w": 70,
+						"h": 114
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/walk/east/walk_east_frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 22,
+						"w": 69,
+						"h": 114
+					},
+					"frame": {
+						"x": 124,
+						"y": 0,
+						"w": 69,
+						"h": 114
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/idle/west/idle_west_frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 23,
+						"w": 55,
+						"h": 113
+					},
+					"frame": {
+						"x": 69,
+						"y": 0,
+						"w": 55,
+						"h": 113
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/cross-punch/west/cross-punch_west_frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 22,
+						"w": 57,
+						"h": 114
+					},
+					"frame": {
+						"x": 193,
+						"y": 0,
+						"w": 57,
+						"h": 114
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/idle/west/idle_west_frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 21,
+						"w": 56,
+						"h": 114
+					},
+					"frame": {
+						"x": 0,
+						"y": 464,
+						"w": 56,
+						"h": 114
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/walk/east/walk_east_frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 23,
+						"w": 31,
+						"h": 114
+					},
+					"frame": {
+						"x": 0,
+						"y": 578,
+						"w": 31,
+						"h": 114
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/taking-punch/east/taking-punch_east_frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 28,
+						"w": 68,
+						"h": 113
+					},
+					"frame": {
+						"x": 0,
+						"y": 692,
+						"w": 68,
+						"h": 113
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/walk/west/walk_east_frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 22,
+						"w": 61,
+						"h": 113
+					},
+					"frame": {
+						"x": 31,
+						"y": 578,
+						"w": 61,
+						"h": 113
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/idle/east/idle_east_frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 25,
+						"w": 59,
+						"h": 113
+					},
+					"frame": {
+						"x": 56,
+						"y": 464,
+						"w": 59,
+						"h": 113
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/idle/east/idle_east_frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 25,
+						"w": 59,
+						"h": 113
+					},
+					"frame": {
+						"x": 70,
+						"y": 348,
+						"w": 59,
+						"h": 113
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/idle/west/idle_west_frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 23,
+						"w": 56,
+						"h": 113
+					},
+					"frame": {
+						"x": 97,
+						"y": 232,
+						"w": 56,
+						"h": 113
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/idle/west/idle_west_frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 19,
+						"w": 56,
+						"h": 113
+					},
+					"frame": {
+						"x": 153,
+						"y": 231,
+						"w": 56,
+						"h": 113
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/walk/east/walk_east_frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 22,
+						"w": 54,
+						"h": 113
+					},
+					"frame": {
+						"x": 194,
+						"y": 114,
+						"w": 54,
+						"h": 113
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/taking-punch/west/taking-punch_west_frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 21,
+						"w": 67,
+						"h": 112
+					},
+					"frame": {
+						"x": 0,
+						"y": 805,
+						"w": 67,
+						"h": 112
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/cross-punch/east/cross-punch_east_frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 25,
+						"w": 66,
+						"h": 112
+					},
+					"frame": {
+						"x": 0,
+						"y": 917,
+						"w": 66,
+						"h": 112
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/walk/east/walk_east_frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 24,
+						"w": 65,
+						"h": 112
+					},
+					"frame": {
+						"x": 0,
+						"y": 1029,
+						"w": 65,
+						"h": 112
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/idle/west/idle_west_frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 20,
+						"w": 57,
+						"h": 112
+					},
+					"frame": {
+						"x": 0,
+						"y": 1141,
+						"w": 57,
+						"h": 112
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/cross-punch/west/cross-punch_west_frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 24,
+						"w": 83,
+						"h": 111
+					},
+					"frame": {
+						"x": 0,
+						"y": 1253,
+						"w": 83,
+						"h": 111
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/idle/east/idle_east_frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 27,
+						"w": 57,
+						"h": 111
+					},
+					"frame": {
+						"x": 57,
+						"y": 1141,
+						"w": 57,
+						"h": 111
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/walk/east/walk_east_frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 24,
+						"w": 57,
+						"h": 111
+					},
+					"frame": {
+						"x": 65,
+						"y": 1029,
+						"w": 57,
+						"h": 111
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/walk/west/walk_east_frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 23,
+						"w": 55,
+						"h": 111
+					},
+					"frame": {
+						"x": 66,
+						"y": 917,
+						"w": 55,
+						"h": 111
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/cross-punch/west/cross-punch_west_frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 24,
+						"w": 94,
+						"h": 110
+					},
+					"frame": {
+						"x": 121,
+						"y": 917,
+						"w": 94,
+						"h": 110
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/idle/east/idle_east_frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 29,
+						"w": 65,
+						"h": 110
+					},
+					"frame": {
+						"x": 67,
+						"y": 805,
+						"w": 65,
+						"h": 110
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/idle/east/idle_east_frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 27,
+						"w": 64,
+						"h": 110
+					},
+					"frame": {
+						"x": 68,
+						"y": 691,
+						"w": 64,
+						"h": 110
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/idle/east/idle_east_frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 29,
+						"w": 66,
+						"h": 109
+					},
+					"frame": {
+						"x": 92,
+						"y": 577,
+						"w": 66,
+						"h": 109
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/idle/east/idle_east_frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 29,
+						"w": 55,
+						"h": 109
+					},
+					"frame": {
+						"x": 115,
+						"y": 461,
+						"w": 55,
+						"h": 109
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/idle/east/idle_east_frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 29,
+						"w": 54,
+						"h": 109
+					},
+					"frame": {
+						"x": 129,
+						"y": 345,
+						"w": 54,
+						"h": 109
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/idle/west/idle_west_frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 25,
+						"w": 62,
+						"h": 108
+					},
+					"frame": {
+						"x": 183,
+						"y": 344,
+						"w": 62,
+						"h": 108
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/idle/west/idle_west_frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 23,
+						"w": 60,
+						"h": 108
+					},
+					"frame": {
+						"x": 209,
+						"y": 227,
+						"w": 60,
+						"h": 108
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/taking-punch/west/taking-punch_west_frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 26,
+						"w": 60,
+						"h": 108
+					},
+					"frame": {
+						"x": 248,
+						"y": 114,
+						"w": 60,
+						"h": 108
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/taking-punch/west/taking-punch_west_frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 26,
+						"w": 67,
+						"h": 107
+					},
+					"frame": {
+						"x": 269,
+						"y": 0,
+						"w": 67,
+						"h": 107
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/idle/west/idle_west_frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 25,
+						"w": 62,
+						"h": 107
+					},
+					"frame": {
+						"x": 308,
+						"y": 107,
+						"w": 62,
+						"h": 107
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/cross-punch/east/cross-punch_east_frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 29,
+						"w": 88,
+						"h": 104
+					},
+					"frame": {
+						"x": 336,
+						"y": 0,
+						"w": 88,
+						"h": 104
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/taking-punch/east/taking-punch_east_frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 37,
+						"w": 76,
+						"h": 104
+					},
+					"frame": {
+						"x": 132,
+						"y": 686,
+						"w": 76,
+						"h": 104
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/taking-punch/east/taking-punch_east_frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 27,
+						"w": 61,
+						"h": 104
+					},
+					"frame": {
+						"x": 158,
+						"y": 570,
+						"w": 61,
+						"h": 104
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/cross-punch/east/cross-punch_east_frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 27,
+						"w": 90,
+						"h": 103
+					},
+					"frame": {
+						"x": 170,
+						"y": 454,
+						"w": 90,
+						"h": 103
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/taking-punch/west/taking-punch_west_frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 30,
+						"w": 62,
+						"h": 103
+					},
+					"frame": {
+						"x": 245,
+						"y": 335,
+						"w": 62,
+						"h": 103
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/cross-punch/west/cross-punch_west_frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 31,
+						"w": 86,
+						"h": 102
+					},
+					"frame": {
+						"x": 269,
+						"y": 222,
+						"w": 86,
+						"h": 102
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/taking-punch/east/taking-punch_east_frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 31,
+						"w": 65,
+						"h": 101
+					},
+					"frame": {
+						"x": 132,
+						"y": 790,
+						"w": 65,
+						"h": 101
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/taking-punch/east/taking-punch_east_frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 31,
+						"w": 56,
+						"h": 100
+					},
+					"frame": {
+						"x": 197,
+						"y": 790,
+						"w": 56,
+						"h": 100
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/cross-punch/west/cross-punch_west_frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 32,
+						"w": 71,
+						"h": 99
+					},
+					"frame": {
+						"x": 208,
+						"y": 674,
+						"w": 71,
+						"h": 99
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/cross-punch/west/cross-punch_west_frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 36,
+						"w": 62,
+						"h": 96
+					},
+					"frame": {
+						"x": 253,
+						"y": 557,
+						"w": 62,
+						"h": 96
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/cross-punch/east/cross-punch_east_frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 36,
+						"w": 70,
+						"h": 94
+					},
+					"frame": {
+						"x": 315,
+						"y": 557,
+						"w": 70,
+						"h": 94
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/cross-punch/east/cross-punch_east_frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 34,
+						"w": 60,
+						"h": 94
+					},
+					"frame": {
+						"x": 260,
+						"y": 438,
+						"w": 60,
+						"h": 94
+					}
+				},
+				{
+					"filename": "muscular_muay_thai_fighter_1/animations/cross-punch/east/cross-punch_east_frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 34,
+						"w": 89,
+						"h": 93
+					},
+					"frame": {
+						"x": 307,
+						"y": 324,
+						"w": 89,
+						"h": 93
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}
