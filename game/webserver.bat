@@ -1,0 +1,1 @@
+D:\devel\python-3.12.0-embed-amd64\python -m http.server 9000
